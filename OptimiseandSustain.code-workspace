@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "Recipes"
+		},
+		{
+			"path": "About"
+		},
+		{
+			"path": "Optimise"
+		},
+		{
+			"path": "Sustain"
+		},
+		{
+			"name": "blog-content",
+			"path": "..\\blog-content"
+		}
+	]
+}
