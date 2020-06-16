@@ -1,20 +1,24 @@
 {
 	"folders": [
 		{
+			"name": "Recipes",
 			"path": "Recipes"
 		},
 		{
+			"name": "About",
 			"path": "About"
 		},
 		{
+			"name": "Optimise",
 			"path": "Optimise"
 		},
 		{
+			"name": "Sustain",
 			"path": "Sustain"
 		},
 		{
 			"name": "blog-content",
-			"path": "..\\blog-content"
+			"path": "."
 		}
 	]
 }
